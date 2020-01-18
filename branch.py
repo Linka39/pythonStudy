@@ -1,3 +1,4 @@
+
 print(type("334"))
 print(type(44.22))
 score = int(input("请输入你的分数："))
